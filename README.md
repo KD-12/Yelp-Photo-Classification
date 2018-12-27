@@ -14,6 +14,8 @@ attributes which are our Labels.
 7: ambience_is_classy
 8: good_for_kids
 
+Data Set can be taken from: https://www.kaggle.com/c/yelp-restaurant-photo-classification/data
+
 Approach:
 
 Step 1: Feature Generation (feature_extraction_alexnet_resnet.py and feature_extraction_inception.py)
