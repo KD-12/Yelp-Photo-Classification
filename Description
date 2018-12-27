@@ -1,0 +1,3 @@
+Yelp Photo Classification
+Using pre-trained ImageNet model- ResNet, AlexNet and InceptionV3 for feature engineering.
+Using these features for multi-lable classification using ensemble model made from one-vs-all chained binary classifiers and neural network.
